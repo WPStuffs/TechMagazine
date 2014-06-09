@@ -3,7 +3,7 @@ TechMagazine
 
 TechMagazine is a unique and mobile responsive Genesis 2 Child theme exclusively made for News and Tech blogs. With well refined typography and aesthetics, TechMagazine will help you to build a blog with brand value.
 
-####This repository will acts as a official support and feature request forum.
+####This repository will act as a official support and feature request forum.
 
 ##Useful Links
 
